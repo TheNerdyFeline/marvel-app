@@ -27,7 +27,8 @@ $(document).ready(function() {
 	address = $("#heroList").val();
 	console.log(address);
 	herocode(geocoder, map);
-	$("#findHeroModal").modal("hide");
+	$("#findHeroModal").modal("hide"); 
+	
     });
 
     // be hero search function;
@@ -35,7 +36,10 @@ $(document).ready(function() {
 	search = $("#volunteerList").val();
 	locSearch = $("#heroZip").val().trim();
 	codeAddress(geocoder, map);
-	$("#beHeroModal").modal("hide");
+	setTimeout(function() {
+	 $("#beHeroModal").modal("hide"); 
+		}, 2000);
+	
     });// close be hero seacrh function
 
     // adopt search function
