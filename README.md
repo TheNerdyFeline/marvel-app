@@ -14,28 +14,28 @@ These functionalities allow you to search for your favorite superhero, adopt a s
 ## Requirements
 ####
 
-•Must uses at least two APIs
-•Must use AJAX to pull data
-•Must utilize at least one new library or technology that we haven’t discussed
-•Must have a polished front-end / UI
-•Must meet good quality coding standards (indentation, scoping, naming)
-•Must NOT use alerts, confirms, or prompts (look into modals!)
-•Must have some sort of repeating element (table, columns, etc)
-•Must use Bootstrap or Alternative CSS Framework
-•Must be Deployed (Heroku or Firebase)
-•Must have User Input Validation
-•Utilize Firebase for Persistent Data Storage (Consider this basically a
+-Must uses at least two APIs
+-Must use AJAX to pull data
+-Must utilize at least one new library or technology that we haven’t discussed
+-Must have a polished front-end / UI
+-Must meet good quality coding standards (indentation, scoping, naming)
+-Must NOT use alerts, confirms, or prompts (look into modals!)
+-Must have some sort of repeating element (table, columns, etc)
+-Must use Bootstrap or Alternative CSS Framework
+-Must be Deployed (Heroku or Firebase)
+-Must have User Input Validation
+-Utilize Firebase for Persistent Data Storage (Consider this basically a
 requirement).
-•Mobile Responsive
-•Use an alternative CSS framework like Materialize
+-Mobile Responsive
+-Use an alternative CSS framework like Materialize
 
 ## Technologies Used
 #### 
-•jQuery for DOM Manipulation
-•AJAX for API get requests the Google Maps API and the Volunteer Match API.
-•HTML5/CSS3 for creating structure, modal, and specific designs
-•Bootstrap for responsive design and its classes for aesthetics.
-•JavaScript for further implementation of modal, etc.
+-jQuery for DOM Manipulation
+-AJAX for API get requests the Google Maps API and the Volunteer Match API.
+-HTML5/CSS3 for creating structure, modal, and specific designs
+-Bootstrap for responsive design and its classes for aesthetics.
+-JavaScript for further implementation of modal, etc.
 
 
 ## Code Explanation
