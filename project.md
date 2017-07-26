@@ -26,3 +26,8 @@ Design Site, mobile first
 Make HTML
 Make CSS
 Make Javascript
+
+
+about me
+Head of Hero Relations
+I have a BFA from Penn State in Theatre Technology, and I'm currently enrolled  6 month Fullstack Web Develpoment program at UCLA.  I am looking for work as a Web Developer or Sofware Developer.  I love making games, and enjoy learning new computer languages to expand my skills.
